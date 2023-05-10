@@ -1,1 +1,1 @@
-# computer-vision-hw2
+# cs231n-computer-vision-hw2
